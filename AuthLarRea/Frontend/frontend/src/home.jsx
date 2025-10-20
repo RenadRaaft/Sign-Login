@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <div className="text-center mt-5">
-      <h1>Laravel - React Authentication</h1>
+      <h1>Laravel Authentication</h1>
 
       {/* Buttons */}
       <div className="mt-4">
